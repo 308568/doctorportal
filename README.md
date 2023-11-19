@@ -60,7 +60,7 @@ HTML[https://www.w3schools.com/html/]
 
 Javascript:[https://www.w3schools.com/javascript]
 
-CSS:https:[//www.w3schools.com/css/]
+CSS:[https//www.w3schools.com/css/]
 ## Tech
 
 
